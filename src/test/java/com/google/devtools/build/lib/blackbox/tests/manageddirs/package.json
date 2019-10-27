@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "description": "prototype for using user's node_modules",
   "dependencies": {
-    "example-module": "0.2.0"
+    "example-module": "1.0.0"
   }
 }
